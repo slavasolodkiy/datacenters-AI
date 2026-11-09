@@ -1,6 +1,6 @@
 # An early independent proposal for prosumer distributed AI compute — documented publicly since 11 Oct 2025
 
-Author: Slava Solodkiy (Vladislav Solodkiy) · Record compiled: 9 Nov 2026 · Repository: slavasolodkiy/datacenters-AI
+Author: Slava Solodkiy (Vladislav Solodkiy) · Record compiled: 9 Nov 2026 with AI assistance (Claude), reviewed by the author after publication · Repository: slavasolodkiy/datacenters-AI
 
 This page is an append-only dated record. It does not edit, replace or re-date any earlier release in this repository. It makes no claim to be the first inventor of anything and no patent claim.
 
@@ -35,7 +35,7 @@ Each comparison says only what the public source says. None of these organisatio
 - Not "first": Microsoft's application was filed on 30 Apr 2025, before 11 Oct 2025. The accurate wording is "independently and publicly documented since 11 Oct 2025".
 - No earnings or return-on-investment promise for any device owner.
 - No partnership, endorsement or approval by any company named on this page.
-- The commit adding this record is not GPG-signed. Only the older commit 47cd59b is shown by GitHub as signature-verified.
+- Signatures: the commit adding this record (4c29569) was signed with an SSH key by the AI-assisted session that pushed it (Claude, noreply@anthropic.com); GitHub shows it as "Verified" for that identity. It is not signed with the author's own GPG key. The original commit 47cd59b is the author's signed commit.
 
 ## 5. Contents of this release
 
